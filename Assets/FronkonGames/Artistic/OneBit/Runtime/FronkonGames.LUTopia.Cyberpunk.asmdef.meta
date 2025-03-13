@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d20f75f92c649684584ff0edd31752f6
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Runtime/FronkonGames.LUTopia.Cyberpunk.asmdef
+  uploadId: 709412

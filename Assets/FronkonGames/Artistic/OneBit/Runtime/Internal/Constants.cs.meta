@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f7e31cb375bab447a591c6a4bca724a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Runtime/Internal/Constants.cs
+  uploadId: 709412

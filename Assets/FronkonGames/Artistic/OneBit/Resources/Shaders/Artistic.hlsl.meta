@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 765d28c209123c940b367abd707fbff3
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Resources/Shaders/Artistic.hlsl
+  uploadId: 709412

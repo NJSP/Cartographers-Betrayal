@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ce065996595fb624e9bd843eac4884ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Runtime/ColorBlends.cs
+  uploadId: 709412

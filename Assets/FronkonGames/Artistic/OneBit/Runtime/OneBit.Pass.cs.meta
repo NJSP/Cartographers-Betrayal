@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc20d3292831a90469ed5c505b7f0a4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Runtime/OneBit.Pass.cs
+  uploadId: 709412

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2e30182d190b1b4f91410d10631d3bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Editor/OneBitFeatureSettingsDrawer.cs
+  uploadId: 709412

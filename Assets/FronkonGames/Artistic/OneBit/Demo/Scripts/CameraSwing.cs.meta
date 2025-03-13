@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9d9c3e2a19e06404e9288e7ac3532f52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Demo/Scripts/CameraSwing.cs
+  uploadId: 709412

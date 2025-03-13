@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f72c597af37dc994bbd22c12e7f9dac0
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Resources/Shaders/ColorBlend.hlsl
+  uploadId: 709412

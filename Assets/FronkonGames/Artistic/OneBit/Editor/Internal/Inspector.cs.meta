@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd11bc3d68f68f64ebf6bd4b9c6b34c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Editor/Internal/Inspector.cs
+  uploadId: 709412

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e0f04d94daa18c41b132b05974188da
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Editor/FronkonGames.Artistic.OneBit.Editor.asmdef
+  uploadId: 709412

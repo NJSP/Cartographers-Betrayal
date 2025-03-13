@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 174bb0340d21a0442af6bb53a47c2d96
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/package.json
+  uploadId: 709412

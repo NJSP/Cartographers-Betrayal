@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af5e6a19cb4edd345ac8100ccb3a44b7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Changelog.md
+  uploadId: 709412

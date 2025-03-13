@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7f12ced7566bca498a03c1c79196439
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Demo/Settings/OneBit Universal Render
+    Pipeline Asset_Renderer.asset
+  uploadId: 709412

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3d3d1f4acfff804c8233b68ae06605d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216000
+  packageName: 'Artistic: One Bit'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Artistic/OneBit/Demo/Textures/Dark/texture_02.mat
+  uploadId: 709412
